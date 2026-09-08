@@ -6,9 +6,6 @@
 
 It combines **Retrieval-Augmented Generation (RAG)** with AI and **Sarvam AI** to provide context-aware assistance, including support for **Hindi and English**, making BIS-related information more accessible to users across India.
 
-## 🚀 Live Demo
-
-**Live Application:** https://thissahayak.streamlit.app/
 
 ---
 
